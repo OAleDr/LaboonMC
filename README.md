@@ -22,6 +22,65 @@ Um espaço criado para a comunidade acompanhar o projeto, conversar, compartilha
 
 ---
 
+🛒 Loja
+
+O Laboon também contará com uma loja, onde os jogadores poderão encontrar os produtos e benefícios disponíveis no servidor.
+
+📸 Preview da Loja
+
+<p align="center"> <img src="LaboonShop/01.png" alt="Laboon Loja" width="900"> </p>
+
+A loja contará com diferentes produtos e benefícios para os jogadores.
+
+🏆 Rankings
+
+O Laboon contará com um sistema de rankings para acompanhar o desempenho dos jogadores.
+
+Os rankings serão separados por diferentes períodos:
+
+🏆 Geral
+📅 Mensal
+🗓️ Semanal
+
+Além dos rankings gerais, cada modo de jogo poderá possuir seus próprios rankings.
+
+🎮 Rankings por modo
+
+Cada minigame poderá ter seu ranking individual, permitindo acompanhar os jogadores que mais se destacam em cada modalidade.
+
+Exemplo:
+
+🏆 Ranking Geral
+
+🥇 Jogador
+🥈 Jogador
+🥉 Jogador
+
+
+⚔️ SkyWars
+
+🏆 Geral
+📅 Mensal
+🗓️ Semanal
+
+
+🛏️ BedWars
+
+🏆 Geral
+📅 Mensal
+🗓️ Semanal
+
+
+⚔️ BedFight
+
+🏆 Geral
+📅 Mensal
+🗓️ Semanal
+
+O sistema será desenvolvido para acompanhar diferentes estatísticas e permitir que os jogadores acompanhem sua evolução dentro do servidor.
+
+---
+
 ## 🚧 Desenvolvimento
 
 O Laboon ainda está em desenvolvimento.
