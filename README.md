@@ -28,7 +28,7 @@ O Laboon também contará com uma loja, onde os jogadores poderão encontrar os 
 
 📸 Preview da Loja
 
-<p align="center"> <img src="LaboonShop/01.png" alt="Laboon Loja" width="900"> </p>
+<p align="center"> <img src="LaboonStore/01.png" alt="Laboon Loja" width="900"> </p>
 
 A loja contará com diferentes produtos e benefícios para os jogadores.
 
